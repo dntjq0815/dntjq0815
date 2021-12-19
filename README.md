@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=wooseob&fontSize=90)
 
-![Python](https://img.shields.io/badge/Python-F7DF1E?style=flat-square&logo=Python&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
