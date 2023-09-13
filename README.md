@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 <br><br>
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dntjq0815&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dntjq0815)
+[![Wooseob's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dntjq0815&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dntjq0815)
   
 </div>
