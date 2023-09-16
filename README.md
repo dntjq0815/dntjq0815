@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,&nbsp;there!&fontSize=90)
 <div align=center>
 
-![Wooseob's GitHub stats](https://github-readme-stats-ecru-nu-48.vercel.app/api?username=dntjq0815&show_icons=true&theme=transparent)
-
 **🛠 Tech Stack 🛠** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
