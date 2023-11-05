@@ -1,4 +1,4 @@
-![image](https://github.com/dntjq0815/dntjq0815/assets/66402486/65feda17-f8a4-43a3-85d9-d7552880dc04)<h1 align="center">Hi 👋, I'm Wooseob Sim</h1>
+<h1 align="center">Hi 👋, I'm Wooseob Sim</h1>
 <h3 align="center">A passionate Data Scientist from South Korea.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
