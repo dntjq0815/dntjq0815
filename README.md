@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Good&nbsp;to&nbsp;meet&nbsp;you&nbsp;👋&fontSize=40)
-
+<hr>
 <h3 align="center">A passionate Data Scientist from South Korea.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
